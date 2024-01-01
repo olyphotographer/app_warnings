@@ -2,8 +2,10 @@
   {
     "id"  : 1,
     "bundleId" : "ch.hdrimage.SwiftPurchaseList",
-    "title"    : "App Alert",
-    "text"     : "Warning: there is a bug in the application, I'm working on it...",
+    "title_en"    : "App Alert",
+    "title_de"    : "App Warnung",
+    "text_en"     : "Warning: there is a bug in the application, I'm working on it...",
+    "text_de"     : "Warnung: Es gibt einen Fehler in der App, ich arbeite daran...",
     "confirmLabel" : "OK"
   }
 ]
